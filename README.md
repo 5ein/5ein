@@ -23,4 +23,5 @@ type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=
 ~~스트라이크~~ <br>
 
 
-<!-- 사진 올리는 법  -->
+<!-- 사진 올리는 법 폴더에 이미지를 넣어두고 -->
+<img src='imges/검정.jpg' width=300 height=200> </img>
