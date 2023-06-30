@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=1,4,6,9,13&height=160&section=header&text=Sein's%20Github&fontSize=50)
-## 안녕하세요 백엔드 개발자(예정) 황세인 입니다. 👋
+## 안녕하세요 백엔드 개발자 황세인 입니다. 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5ein&layout=compact)](https://github.com/5ein/github-readme-stats)
 ##### 👇About Me👇
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/5ein/)](https://github.com/5ein/) 
